@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [Basics](basics.md)
 * [Advanced](advanced.md)
+* [Troubleshooting](troubleshooting.md)
 
