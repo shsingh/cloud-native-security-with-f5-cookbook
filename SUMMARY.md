@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Table of Contents](TOC.md)
-* [Basics](BASICS.md)
-* [Advanced](ADVANCED.md)
+* [Introduction](README.md)
+* [Basics](basics.md)
+* [Advanced](advanced.md)
 
