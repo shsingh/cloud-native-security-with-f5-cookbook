@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](INTRODUCTION.md)
+* [Basics](BASICS.md)
+* [Advanced](ADVANCED.md)
 
