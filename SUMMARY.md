@@ -1,3 +1,4 @@
-# Tables of Contents
+# Table of contents
 
-[Basics](BASICS.md)
+* [Initial page](README.md)
+
